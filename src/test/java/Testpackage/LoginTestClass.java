@@ -58,7 +58,7 @@ public class LoginTestClass extends BaseClass  {
 		 login.sendUsername("Admin");
          login.sendPassword("admin1234");
          login.ClickOnLoginButton();
-    	
+    	System.out.println("first HRM project");
   
 	}
 	@Test
